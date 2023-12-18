@@ -21,10 +21,7 @@ Welcome to Quiz Master, the ultimate app to test your knowledge! Track your scor
 2. **Answer Questions:**
    - Respond to questions, and see instant color-coded feedback.
 
-3. **Score Tracking:**
-   - Watch your score accumulate as you progress through the quiz.
-
-4. **Finished Page:**
+3. **Finished Page:**
    - Reach the end, and access the finished page to review your score.
 
 ## Getting Started:
